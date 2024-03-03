@@ -1,0 +1,359 @@
+2023-04-28 01:32:06 UTC [INFO] Booting up
+2023-04-28 01:32:06 UTC [INFO] Created output folder: test-hama-new-window-start-date
+2023-04-28 01:32:06 UTC [INFO] Following languages are supported and files with these extensions are considered in the analysis: 
+2023-04-28 01:32:06 UTC [INFO] "c", 
+2023-04-28 01:32:06 UTC [INFO] "ec", 
+2023-04-28 01:32:06 UTC [INFO] "pgc", 
+2023-04-28 01:32:06 UTC [INFO] "cc", 
+2023-04-28 01:32:06 UTC [INFO] "cpp", 
+2023-04-28 01:32:06 UTC [INFO] "cxx", 
+2023-04-28 01:32:06 UTC [INFO] "c++", 
+2023-04-28 01:32:06 UTC [INFO] "pcc", 
+2023-04-28 01:32:06 UTC [INFO] "tpp", 
+2023-04-28 01:32:06 UTC [INFO] "h", 
+2023-04-28 01:32:06 UTC [INFO] "hh", 
+2023-04-28 01:32:06 UTC [INFO] "hpp", 
+2023-04-28 01:32:06 UTC [INFO] "hxx", 
+2023-04-28 01:32:06 UTC [INFO] "inl", 
+2023-04-28 01:32:06 UTC [INFO] "ipp", 
+2023-04-28 01:32:06 UTC [INFO] "cs", 
+2023-04-28 01:32:06 UTC [INFO] "csx", 
+2023-04-28 01:32:06 UTC [INFO] "go", 
+2023-04-28 01:32:06 UTC [INFO] "groovy", 
+2023-04-28 01:32:06 UTC [INFO] "grt", 
+2023-04-28 01:32:06 UTC [INFO] "gtpl", 
+2023-04-28 01:32:06 UTC [INFO] "gvy", 
+2023-04-28 01:32:06 UTC [INFO] "java", 
+2023-04-28 01:32:06 UTC [INFO] "js", 
+2023-04-28 01:32:06 UTC [INFO] "mjs", 
+2023-04-28 01:32:06 UTC [INFO] "ts", 
+2023-04-28 01:32:06 UTC [INFO] "kt", 
+2023-04-28 01:32:06 UTC [INFO] "kts", 
+2023-04-28 01:32:06 UTC [INFO] "php", 
+2023-04-28 01:32:06 UTC [INFO] "py", 
+2023-04-28 01:32:06 UTC [INFO] "pyw", 
+2023-04-28 01:32:06 UTC [INFO] "rs", 
+2023-04-28 01:32:06 UTC [INFO] "sc", 
+2023-04-28 01:32:06 UTC [INFO] "scala", 
+2023-04-28 01:32:06 UTC [INFO] "swift", 
+2023-04-28 01:32:06 UTC [INFO] Using 2 threads
+2023-04-28 01:32:06 UTC [INFO] Analyzing 1 projects
+2023-04-28 01:32:06 UTC [INFO] OS detected: Linux
+2023-04-28 01:32:06 UTC [INFO] hama: Ignore start end dates option enabled. First commit timestamp: 2008-06-19. Last commit timestamp: 2018-07-29
+2023-04-28 01:32:14 UTC [INFO] hama - found the following branches master
+2023-04-28 01:32:14 UTC [INFO] hama - succesfully checked out at master
+2023-04-28 01:32:21 UTC [INFO] checkout 1103
+2023-04-28 01:32:21 UTC [INFO] hama - computing stats
+2023-04-28 01:32:21 UTC [INFO] hama - computing stats
+2023-04-28 01:32:21 UTC [INFO] hama - found 1103 commits split across 124 incubation months, where an incubation month is 30 days
+2023-04-28 01:32:21 UTC [INFO] hama month: 1 - analyzing 1 commits
+2023-04-28 01:32:22 UTC [INFO] hama - succesfully checked out at ead4f72bc3b4f01ec0a4ba3a7d870b0c35df6562
+2023-04-28 01:32:22 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:22 UTC [INFO] hama month: 2 - analyzing 31 commits
+2023-04-28 01:32:22 UTC [INFO] hama - succesfully checked out at 9560358dd61e216ce3b19ffd7911730809fb6020
+2023-04-28 01:32:22 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:22 UTC [INFO] hama month: 3 - analyzing 50 commits
+2023-04-28 01:32:22 UTC [INFO] hama - succesfully checked out at 23df2af66295c2c20e6b60476525357e3eb0dc13
+2023-04-28 01:32:22 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:22 UTC [INFO] hama month: 4 - analyzing 26 commits
+2023-04-28 01:32:23 UTC [INFO] hama - succesfully checked out at 70de8122c9b6411d731bc34d50ecb2f0f992963c
+2023-04-28 01:32:23 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:23 UTC [INFO] hama month: 5 - analyzing 22 commits
+2023-04-28 01:32:23 UTC [INFO] hama - succesfully checked out at 274d6b5755c2785139ca9bf6ddb90e63d2007757
+2023-04-28 01:32:23 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:23 UTC [INFO] hama month: 6 - analyzing 29 commits
+2023-04-28 01:32:23 UTC [INFO] hama - succesfully checked out at 9e5b48a91669d3be765af9a014244559c171d96f
+2023-04-28 01:32:23 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:23 UTC [INFO] hama month: 7 - analyzing 27 commits
+2023-04-28 01:32:24 UTC [INFO] hama - succesfully checked out at de66aeba4de5f8010a80ee3adf905425e1c554e0
+2023-04-28 01:32:24 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:24 UTC [INFO] hama month: 8 - analyzing 12 commits
+2023-04-28 01:32:24 UTC [INFO] hama - succesfully checked out at dd95bc40993406dda929e84b0f4709d7e11c0c78
+2023-04-28 01:32:24 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:24 UTC [INFO] hama month: 9 - analyzing 13 commits
+2023-04-28 01:32:24 UTC [INFO] hama - succesfully checked out at 44faf8e0052de47c9652f67a65e10fac3ce3d331
+2023-04-28 01:32:24 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:24 UTC [INFO] hama month: 10 - analyzing 1 commits
+2023-04-28 01:32:24 UTC [INFO] hama - succesfully checked out at 026fbd361402055de5bdd2ac1271e79cbe496a54
+2023-04-28 01:32:24 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:24 UTC [INFO] hama month: 11 - analyzing 8 commits
+2023-04-28 01:32:24 UTC [INFO] hama - succesfully checked out at b8671373a5be0cc1ab032eb6c83a35b126634308
+2023-04-28 01:32:24 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:24 UTC [INFO] hama month: 12 - analyzing 3 commits
+2023-04-28 01:32:24 UTC [INFO] hama - succesfully checked out at 2dcb2ac6b30ebf0d6b04f6f6a1f07908a87c2930
+2023-04-28 01:32:24 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:24 UTC [INFO] hama month: 13 - analyzing 1 commits
+2023-04-28 01:32:24 UTC [INFO] hama - succesfully checked out at 3e4ed97294e747dd1b9152420ce614f58ac32c95
+2023-04-28 01:32:24 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:24 UTC [INFO] hama month: 14 - analyzing 3 commits
+2023-04-28 01:32:24 UTC [INFO] hama - succesfully checked out at e2eecb332cf85995caa7ca605fc94264de63a280
+2023-04-28 01:32:24 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:24 UTC [INFO] hama month: 15 - analyzing 1 commits
+2023-04-28 01:32:24 UTC [INFO] hama - succesfully checked out at 7809e97cc21a9959491a4702c20712dfa9ea5e18
+2023-04-28 01:32:24 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:24 UTC [INFO] hama month: 16 - analyzing 3 commits
+2023-04-28 01:32:25 UTC [INFO] hama - succesfully checked out at 42584cd5328fc55a499d318dda6fefff6459242c
+2023-04-28 01:32:25 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:25 UTC [INFO] hama month: 17 - analyzing 24 commits
+2023-04-28 01:32:25 UTC [INFO] hama - succesfully checked out at c2162a3a8c62086f41cd623956266459e65e9c49
+2023-04-28 01:32:25 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:25 UTC [INFO] hama month: 18 - analyzing 9 commits
+2023-04-28 01:32:25 UTC [INFO] hama - succesfully checked out at f7659bfebea3aa0ab5dfb97db99adc7f32a1b2cd
+2023-04-28 01:32:25 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:25 UTC [INFO] hama month: 19 - analyzing 0 commits
+2023-04-28 01:32:25 UTC [INFO] hama month: 20 - analyzing 0 commits
+2023-04-28 01:32:25 UTC [INFO] hama month: 21 - analyzing 2 commits
+2023-04-28 01:32:25 UTC [INFO] hama - succesfully checked out at a9f0777b6cfb6b4258c858fa5de58e36cd2ad937
+2023-04-28 01:32:25 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:25 UTC [INFO] hama month: 22 - analyzing 1 commits
+2023-04-28 01:32:25 UTC [INFO] hama - succesfully checked out at b8c9fb4c652bf35ad8c4d552407d3ffb68b4464c
+2023-04-28 01:32:25 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:25 UTC [INFO] hama month: 23 - analyzing 2 commits
+2023-04-28 01:32:26 UTC [INFO] hama - succesfully checked out at 74f50acdb93f27e713200439e65c28a84eb88c21
+2023-04-28 01:32:26 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:26 UTC [INFO] hama month: 24 - analyzing 12 commits
+2023-04-28 01:32:26 UTC [INFO] hama - succesfully checked out at 45159a256f2f569dc474e409daa009d018722e14
+2023-04-28 01:32:26 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:26 UTC [INFO] hama month: 25 - analyzing 6 commits
+2023-04-28 01:32:26 UTC [INFO] hama - succesfully checked out at 2ae4420c9034f237a7658871b6f058eca817d67d
+2023-04-28 01:32:26 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:26 UTC [INFO] hama month: 26 - analyzing 2 commits
+2023-04-28 01:32:26 UTC [INFO] hama - succesfully checked out at 32d0d17bc0b02d01ea682c55995641c5fdebafa7
+2023-04-28 01:32:26 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:26 UTC [INFO] hama month: 27 - analyzing 6 commits
+2023-04-28 01:32:26 UTC [INFO] hama - succesfully checked out at 3011f32637f55c103bb5157210c0d24824139f08
+2023-04-28 01:32:26 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:26 UTC [INFO] hama month: 28 - analyzing 12 commits
+2023-04-28 01:32:26 UTC [INFO] hama - succesfully checked out at f9347bdb867346094b1152d2f789f02a817ca08c
+2023-04-28 01:32:26 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:26 UTC [INFO] hama month: 29 - analyzing 32 commits
+2023-04-28 01:32:26 UTC [INFO] hama - succesfully checked out at 112785fb145ad473d1858381f7bdbb38022b6c96
+2023-04-28 01:32:26 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:26 UTC [INFO] hama month: 30 - analyzing 13 commits
+2023-04-28 01:32:27 UTC [INFO] hama - succesfully checked out at a9af676f8ceca1432b52788834b1bb340167f92e
+2023-04-28 01:32:27 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:27 UTC [INFO] hama month: 31 - analyzing 9 commits
+2023-04-28 01:32:27 UTC [INFO] hama - succesfully checked out at 71f6a766a2d2d7e4bd9dc3ab1c028dc63a1a449e
+2023-04-28 01:32:27 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:27 UTC [INFO] hama month: 32 - analyzing 10 commits
+2023-04-28 01:32:27 UTC [INFO] hama - succesfully checked out at fa36b2b182d4ea2cda667052c09fca49e44dd61c
+2023-04-28 01:32:27 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:27 UTC [INFO] hama month: 33 - analyzing 22 commits
+2023-04-28 01:32:27 UTC [INFO] hama - succesfully checked out at 619db1c7c290d5c3df96793ea60c90e91eb9904d
+2023-04-28 01:32:27 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:27 UTC [INFO] hama month: 34 - analyzing 5 commits
+2023-04-28 01:32:27 UTC [INFO] hama - succesfully checked out at 27b813d60b55d3f68bc6a7e7215460cc28c5632e
+2023-04-28 01:32:27 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:27 UTC [INFO] hama month: 35 - analyzing 7 commits
+2023-04-28 01:32:27 UTC [INFO] hama - succesfully checked out at 697f39593775d6426d64a426a67075f1492d5808
+2023-04-28 01:32:27 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:28 UTC [INFO] hama month: 36 - analyzing 11 commits
+2023-04-28 01:32:28 UTC [INFO] hama - succesfully checked out at ae9236e1ee1b55a1cb482b727cf806f89fe3f500
+2023-04-28 01:32:28 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:28 UTC [INFO] hama month: 37 - analyzing 14 commits
+2023-04-28 01:32:28 UTC [INFO] hama - succesfully checked out at e6a23f01cce5846f9af1bd9a967f341d21292e63
+2023-04-28 01:32:28 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:28 UTC [INFO] hama month: 38 - analyzing 5 commits
+2023-04-28 01:32:28 UTC [INFO] hama - succesfully checked out at 58c629658f85d3a40765b971bd5a54fea2b7d0ac
+2023-04-28 01:32:28 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:28 UTC [INFO] hama month: 39 - analyzing 7 commits
+2023-04-28 01:32:28 UTC [INFO] hama - succesfully checked out at d70cf102bef9066889ef8df84000d4b5459ce693
+2023-04-28 01:32:28 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:28 UTC [INFO] hama month: 40 - analyzing 10 commits
+2023-04-28 01:32:28 UTC [INFO] hama - succesfully checked out at 08e2564b7970604b05b9fecb55d9fd1352ed58c0
+2023-04-28 01:32:28 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:29 UTC [INFO] hama month: 41 - analyzing 18 commits
+2023-04-28 01:32:29 UTC [INFO] hama - succesfully checked out at cf9fa9882a8228c2315aa1c9013572a1c2e5a9e8
+2023-04-28 01:32:29 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:29 UTC [INFO] hama month: 42 - analyzing 46 commits
+2023-04-28 01:32:29 UTC [INFO] hama - succesfully checked out at 0d9ee6dcc0cdba8476d6e5a6f81ea6c6bf43aebd
+2023-04-28 01:32:29 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:29 UTC [INFO] hama month: 43 - analyzing 21 commits
+2023-04-28 01:32:29 UTC [INFO] hama - succesfully checked out at 4f7bf4097483418001f310e03d505a3381f678c9
+2023-04-28 01:32:29 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:29 UTC [INFO] hama month: 44 - analyzing 13 commits
+2023-04-28 01:32:29 UTC [INFO] hama - succesfully checked out at 068be8d453c495a8fa93ba0846abc7474be4506e
+2023-04-28 01:32:29 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:29 UTC [INFO] hama month: 45 - analyzing 24 commits
+2023-04-28 01:32:30 UTC [INFO] hama - succesfully checked out at 8c0cc8b0a0d576537a93b593ba1ddb68b7868489
+2023-04-28 01:32:30 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:30 UTC [INFO] hama month: 46 - analyzing 13 commits
+2023-04-28 01:32:30 UTC [INFO] hama - succesfully checked out at 5b8ce05952c53d6c3ed575e904d62f4b6ce015ab
+2023-04-28 01:32:30 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:30 UTC [INFO] hama month: 47 - analyzing 9 commits
+2023-04-28 01:32:30 UTC [INFO] hama - succesfully checked out at 1f363c2f0b1d5ee8cb7501a2a7a8994349724cc6
+2023-04-28 01:32:30 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:30 UTC [INFO] hama month: 48 - analyzing 25 commits
+2023-04-28 01:32:30 UTC [INFO] hama - succesfully checked out at 27a78053ed1395b14c59f6ae1a2231a8144b4582
+2023-04-28 01:32:30 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:31 UTC [INFO] hama month: 49 - analyzing 32 commits
+2023-04-28 01:32:31 UTC [INFO] hama - succesfully checked out at a97d4e9846ee4fadb685482b3a9ecdf697947e37
+2023-04-28 01:32:31 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:31 UTC [INFO] hama month: 50 - analyzing 7 commits
+2023-04-28 01:32:31 UTC [INFO] hama - succesfully checked out at 96ed9f1be5f22acc49cc010e12edfbf0e6140f63
+2023-04-28 01:32:31 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:31 UTC [INFO] hama month: 51 - analyzing 15 commits
+2023-04-28 01:32:31 UTC [INFO] hama - succesfully checked out at 526d55675d5e50a7ea4f6b6c26d7682a44c7452b
+2023-04-28 01:32:31 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:31 UTC [INFO] hama month: 52 - analyzing 19 commits
+2023-04-28 01:32:31 UTC [INFO] hama - succesfully checked out at f1f4a5003b73012ffa49a9f63fe191c415f3e72d
+2023-04-28 01:32:31 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:32 UTC [INFO] hama month: 53 - analyzing 33 commits
+2023-04-28 01:32:32 UTC [INFO] hama - succesfully checked out at f1208df6c61dab482a6cfe68317e9d32f9b0f3c5
+2023-04-28 01:32:32 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:32 UTC [INFO] hama month: 54 - analyzing 34 commits
+2023-04-28 01:32:32 UTC [INFO] hama - succesfully checked out at f47e118d3f013a468b6c835da3dcfee6f1010da9
+2023-04-28 01:32:32 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:32 UTC [INFO] hama month: 55 - analyzing 13 commits
+2023-04-28 01:32:32 UTC [INFO] hama - succesfully checked out at c2734bbcd3edf354363127f611dd1165b5bed544
+2023-04-28 01:32:32 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:33 UTC [INFO] hama month: 56 - analyzing 13 commits
+2023-04-28 01:32:33 UTC [INFO] hama - succesfully checked out at 91013baf1704baa200f64addeb2662d7366fb3bc
+2023-04-28 01:32:33 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:33 UTC [INFO] hama month: 57 - analyzing 19 commits
+2023-04-28 01:32:33 UTC [INFO] hama - succesfully checked out at 97c57b0dd49e5375d4c872eb516db6de47772878
+2023-04-28 01:32:33 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:33 UTC [INFO] hama month: 58 - analyzing 7 commits
+2023-04-28 01:32:33 UTC [INFO] hama - succesfully checked out at c4a45d80f63c807ab79c071130d467aede22eac8
+2023-04-28 01:32:33 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:34 UTC [INFO] hama month: 59 - analyzing 2 commits
+2023-04-28 01:32:34 UTC [INFO] hama - succesfully checked out at 40cd500bf2cecdf143804f3bc64772e5598a1928
+2023-04-28 01:32:34 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:34 UTC [INFO] hama month: 60 - analyzing 7 commits
+2023-04-28 01:32:34 UTC [INFO] hama - succesfully checked out at 054a6cb520b7d21aaee282ed708ab4c8d84a3bdc
+2023-04-28 01:32:34 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:34 UTC [INFO] hama month: 61 - analyzing 4 commits
+2023-04-28 01:32:34 UTC [INFO] hama - succesfully checked out at a38663673e3ef303816626cb7d850ab6d1b75f14
+2023-04-28 01:32:34 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:35 UTC [INFO] hama month: 62 - analyzing 14 commits
+2023-04-28 01:32:35 UTC [INFO] hama - succesfully checked out at 24c5834c63797725b3829289dc22803078c6d716
+2023-04-28 01:32:35 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:35 UTC [INFO] hama month: 63 - analyzing 7 commits
+2023-04-28 01:32:35 UTC [INFO] hama - succesfully checked out at b31f2a9dd825c062657cce207419ff7dd9eed0e0
+2023-04-28 01:32:35 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:35 UTC [INFO] hama month: 64 - analyzing 11 commits
+2023-04-28 01:32:35 UTC [INFO] hama - succesfully checked out at 6bdc15b3260e91eee24ba3b5a9fae50b2d5217c5
+2023-04-28 01:32:35 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:36 UTC [INFO] hama month: 65 - analyzing 15 commits
+2023-04-28 01:32:36 UTC [INFO] hama - succesfully checked out at dd2eec48ffa4451c9db819934367b2977619b87a
+2023-04-28 01:32:36 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:36 UTC [INFO] hama month: 66 - analyzing 2 commits
+2023-04-28 01:32:36 UTC [INFO] hama - succesfully checked out at 9df03451da0ab06d5bf44bd3f3c65b3f407a34c0
+2023-04-28 01:32:36 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:37 UTC [INFO] hama month: 67 - analyzing 13 commits
+2023-04-28 01:32:37 UTC [INFO] hama - succesfully checked out at 3fd43841819e9d57b1a3e7f641e9aa270783ba01
+2023-04-28 01:32:37 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:37 UTC [INFO] hama month: 68 - analyzing 31 commits
+2023-04-28 01:32:37 UTC [INFO] hama - succesfully checked out at 37e33132a51566eca2eb13f653725b382797ed1e
+2023-04-28 01:32:37 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:38 UTC [INFO] hama month: 69 - analyzing 23 commits
+2023-04-28 01:32:38 UTC [INFO] hama - succesfully checked out at ee9dad065ab934191d2dd339a315efac8dcdeea0
+2023-04-28 01:32:38 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:38 UTC [INFO] hama month: 70 - analyzing 18 commits
+2023-04-28 01:32:38 UTC [INFO] hama - succesfully checked out at f9a0e846d6613fe0a7e16e2b2323fe01822f916c
+2023-04-28 01:32:38 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:38 UTC [INFO] hama month: 71 - analyzing 3 commits
+2023-04-28 01:32:38 UTC [INFO] hama - succesfully checked out at 96f6c00acddc2c5c24a9cd58033f03d7414f31d0
+2023-04-28 01:32:38 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:39 UTC [INFO] hama month: 72 - analyzing 1 commits
+2023-04-28 01:32:39 UTC [INFO] hama - succesfully checked out at 2e8b102813e1af95c344dab17c283b8584c70680
+2023-04-28 01:32:39 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:39 UTC [INFO] hama month: 73 - analyzing 8 commits
+2023-04-28 01:32:39 UTC [INFO] hama - succesfully checked out at f8dde3f1d50ae0c6e3d5878e9026bdc13916fd0f
+2023-04-28 01:32:39 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:39 UTC [INFO] hama month: 74 - analyzing 6 commits
+2023-04-28 01:32:40 UTC [INFO] hama - succesfully checked out at 4caccda58632e67007c3d30bcd5357134f39c7b6
+2023-04-28 01:32:40 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:40 UTC [INFO] hama month: 75 - analyzing 4 commits
+2023-04-28 01:32:40 UTC [INFO] hama - succesfully checked out at 7c877dc938e3ddf9686254a9a2eb321d8144194e
+2023-04-28 01:32:40 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:40 UTC [INFO] hama month: 76 - analyzing 7 commits
+2023-04-28 01:32:40 UTC [INFO] hama - succesfully checked out at d95e85084b0b662cc3db728927dc6febd9922618
+2023-04-28 01:32:40 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:41 UTC [INFO] hama month: 77 - analyzing 5 commits
+2023-04-28 01:32:41 UTC [INFO] hama - succesfully checked out at 6df6269ad1d3943c461d65964311f3a15c30bb87
+2023-04-28 01:32:41 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:41 UTC [INFO] hama month: 78 - analyzing 0 commits
+2023-04-28 01:32:41 UTC [INFO] hama month: 79 - analyzing 0 commits
+2023-04-28 01:32:41 UTC [INFO] hama month: 80 - analyzing 2 commits
+2023-04-28 01:32:41 UTC [INFO] hama - succesfully checked out at 1783cdfc4eff871d59911054c4a56f88da686210
+2023-04-28 01:32:41 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:41 UTC [INFO] hama month: 81 - analyzing 8 commits
+2023-04-28 01:32:41 UTC [INFO] hama - succesfully checked out at 5a5569482cb2e5380246d3341660c37a20a39f66
+2023-04-28 01:32:41 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:42 UTC [INFO] hama month: 82 - analyzing 8 commits
+2023-04-28 01:32:42 UTC [INFO] hama - succesfully checked out at f7619fbdcc5f4ee8bf9899dee7ffa9b2fbf39ea2
+2023-04-28 01:32:42 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:42 UTC [INFO] hama month: 83 - analyzing 15 commits
+2023-04-28 01:32:42 UTC [INFO] hama - succesfully checked out at 24246ffde7f815c733848c7d2fbdaae5aa887399
+2023-04-28 01:32:42 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:43 UTC [INFO] hama month: 84 - analyzing 26 commits
+2023-04-28 01:32:43 UTC [INFO] hama - succesfully checked out at d6d6f890db2ecd2480fd0c20e19eaa5f1a6f569d
+2023-04-28 01:32:43 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:43 UTC [INFO] hama month: 85 - analyzing 26 commits
+2023-04-28 01:32:43 UTC [INFO] hama - succesfully checked out at cd72f02d15b5ee2e274e7803ff0c33fa366b5f63
+2023-04-28 01:32:43 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:44 UTC [INFO] hama month: 86 - analyzing 2 commits
+2023-04-28 01:32:44 UTC [INFO] hama - succesfully checked out at 01ad02ffde340e51232ee83755f2cd86a61d334c
+2023-04-28 01:32:44 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:44 UTC [INFO] hama month: 87 - analyzing 5 commits
+2023-04-28 01:32:44 UTC [INFO] hama - succesfully checked out at 65a0839736f475bcc116f3ba4a233108d68594d9
+2023-04-28 01:32:44 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:44 UTC [INFO] hama month: 88 - analyzing 2 commits
+2023-04-28 01:32:44 UTC [INFO] hama - succesfully checked out at 3ee433413294e5b833e569472289f6a404e32576
+2023-04-28 01:32:44 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:45 UTC [INFO] hama month: 89 - analyzing 1 commits
+2023-04-28 01:32:45 UTC [INFO] hama - succesfully checked out at de4fea5e6bd9d41706f421a89332521a41c053a6
+2023-04-28 01:32:45 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:45 UTC [INFO] hama month: 90 - analyzing 0 commits
+2023-04-28 01:32:45 UTC [INFO] hama month: 91 - analyzing 5 commits
+2023-04-28 01:32:45 UTC [INFO] hama - succesfully checked out at c095c7da2e529256579429da9bb2d534a96da873
+2023-04-28 01:32:45 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:45 UTC [INFO] hama month: 92 - analyzing 0 commits
+2023-04-28 01:32:45 UTC [INFO] hama month: 93 - analyzing 2 commits
+2023-04-28 01:32:46 UTC [INFO] hama - succesfully checked out at 583c69b37817f9ee76403805657d6650f2efc6d3
+2023-04-28 01:32:46 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:46 UTC [INFO] hama month: 94 - analyzing 0 commits
+2023-04-28 01:32:46 UTC [INFO] hama month: 95 - analyzing 2 commits
+2023-04-28 01:32:46 UTC [INFO] hama - succesfully checked out at 1dc5eaa2e5eeacb7ddc6571098a6c82117ec3745
+2023-04-28 01:32:46 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:46 UTC [INFO] hama month: 96 - analyzing 2 commits
+2023-04-28 01:32:46 UTC [INFO] hama - succesfully checked out at 83f906c23c5ac1ff0e9f4c04991253cd21b612f7
+2023-04-28 01:32:46 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:47 UTC [INFO] hama month: 97 - analyzing 1 commits
+2023-04-28 01:32:47 UTC [INFO] hama - succesfully checked out at fb28bcbcff97872ecd4434bfa7b934c48d1ce3ee
+2023-04-28 01:32:47 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:47 UTC [INFO] hama month: 98 - analyzing 1 commits
+2023-04-28 01:32:47 UTC [INFO] hama - succesfully checked out at 556c7b386b1fb27a41763a61d1126e1dd1bd216a
+2023-04-28 01:32:47 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:47 UTC [INFO] hama month: 99 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 100 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 101 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 102 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 103 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 104 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 105 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 106 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 107 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 108 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 109 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 110 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 111 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 112 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 113 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 114 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 115 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 116 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 117 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 118 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 119 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 120 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 121 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 122 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 123 - analyzing 0 commits
+2023-04-28 01:32:47 UTC [INFO] hama month: 124 - analyzing 1 commits
+2023-04-28 01:32:47 UTC [INFO] hama - succesfully checked out at 734a4d7337cbd132623c7dcb84c300de428d13bf
+2023-04-28 01:32:47 UTC [INFO] restrict-languages flag is on. Configuring tokei to use the languages defined in tokei.toml file.
+2023-04-28 01:32:48 UTC [INFO] hama - found the following branches master
+2023-04-28 01:32:48 UTC [INFO] hama - succesfully checked out at master
+2023-04-28 01:32:55 UTC [INFO] Analysis completed in 0h:0m:48s
